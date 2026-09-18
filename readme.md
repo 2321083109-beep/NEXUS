@@ -4,3 +4,4 @@ servidor web
 servidor de base de datos
 laboratirios
 firewall
+git nexus
